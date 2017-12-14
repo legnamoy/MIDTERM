@@ -1,8 +1,0 @@
-Firstname: Angel
-Lastname:  Alivio
-Birthdate: November 11, 1997
-age:   "20"
-address: "Sumilihon Butuan City"
-Gender: "Female"
-course: "BSIT"
-
